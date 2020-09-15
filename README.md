@@ -1,4 +1,6 @@
-# ECE243-project-music-simulator
+# ECE243 Project
+## Music simulator
+
 This project implements a musical simulator on NIOSII processor consisting of four modes of operation: musical instrument, player, recorder, and modifier mode.<br/>
 
 The simulator communicates with nine devices, including VGA, two timers, audio in/out, PS2 keyboard, seven-segment display, Lego controller, two timers, PS2 keyboard, and Lego Controller.  <br/>
